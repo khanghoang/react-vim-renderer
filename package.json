@@ -1,0 +1,9 @@
+{
+  "name": "react-vim-renderer",
+  "version": "0.0.1",
+  "description": "React renderer for vim",
+  "main": "index.js",
+  "repository": "git@github.com:khanghoang/react-vim-renderer.git",
+  "author": "Khang Hoang <hoangtrieukhang@gmail.com>",
+  "license": "MIT"
+}
